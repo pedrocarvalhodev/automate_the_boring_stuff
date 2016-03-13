@@ -41,12 +41,12 @@ get_ipython().system(u'cat automate_1.py')
 # In[ ]:
 
 pd.DataFrame({"A":np.arange(10), "B":np.arange(10)*10}).plot()
+plt.show()
 
 
-# In[ ]:
-
-
-
+# #### Description
+# 
+# This plot is rendered
 
 # In[ ]:
 
