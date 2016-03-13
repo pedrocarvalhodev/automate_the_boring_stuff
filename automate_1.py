@@ -25,17 +25,17 @@ print np.arange(10)
 
 # In[ ]:
 
-get_ipython().system(u'pwd')
+#!pwd
 
 
 # In[ ]:
 
-get_ipython().system(u'ls')
+#!ls
 
 
 # In[ ]:
 
-get_ipython().system(u'cat automate_1.py')
+#!cat automate_1.py
 
 
 # In[ ]:
